@@ -1,27 +1,49 @@
 # ArkixAplication
+Aplicacion de prueba tecnica para arkix
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+   / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+ /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+                |___/
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Angular CLI: 7.2.1
+Node: 10.13.0
+OS: win32 x64
+Angular:
+...
 
-## Code scaffolding
+Package                      Version
+------------------------------------------------------
+@angular-devkit/architect    0.12.1
+@angular-devkit/core         7.2.1
+@angular-devkit/schematics   7.2.1
+@schematics/angular          7.2.1
+@schematics/update           0.12.1
+rxjs                         6.3.3
+typescript                   3.2.2
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Pasos para correr proyecto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+gir clone https://github.com/yeiosorio/arkixAplication
 
-## Running unit tests
+npm install
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+*** si hay error en Angular ***
 
-## Running end-to-end tests
+npm update
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Librerias
+Material:
+ @angular/material
 
-## Further help
+CDK
+@angular/cdk
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Material DataTable
+
+
+
+
