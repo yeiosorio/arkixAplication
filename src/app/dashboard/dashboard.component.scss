@@ -1,21 +1,28 @@
-.grid-container {
-  margin: 20px;
+
+
+table {
+  width: 100%;
 }
 
-.dashboard-card {
-  position: absolute;
-  top: 15px;
-  left: 15px;
-  right: 15px;
-  bottom: 15px;
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
 }
 
-.more-button {
-  position: absolute;
-  top: 5px;
-  right: 10px;
+td, th {
+  width: 25%;
 }
 
-.dashboard-card-content {
+.align{
   text-align: center;
+  color: #7fc79d;
+  padding: 23px;
+}
+
+.delete{
+  color: #cc4d4d;
+  cursor: pointer;
+}
+.loading{
+  text-align: center
 }
